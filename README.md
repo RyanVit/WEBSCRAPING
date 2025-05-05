@@ -65,7 +65,7 @@ Este projeto implementa um pipeline de ETL (Extração, Transformação e Carreg
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/RyanVit/WEBSCRAPING.git
    cd seu-repositorio
    ```
 
